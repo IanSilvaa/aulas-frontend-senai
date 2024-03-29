@@ -6,7 +6,7 @@ const Rodape = () => {
   return (
     <footer>
       <span className='texto-copyright'>
-        Copyright © {anoAtual} - Todos os direitos reservados - João Silva.
+        Copyright © {anoAtual} - Todos os direitos reservados - Ian Ferreira.
       </span>
     </footer>
   );

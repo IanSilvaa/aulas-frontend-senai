@@ -1,5 +1,5 @@
 footer {
-  background-color: var(--cor-fundo-padrao);
+  background-color: var(--cor-cinza);
   grid-area: rodape;
 
   display: flex;
